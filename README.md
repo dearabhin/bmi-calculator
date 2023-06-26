@@ -25,7 +25,7 @@ cd bmi-calculator
 2. Run the script:
 
 ```
-python bmi_calculator.py
+python python.py
 ```
 
 3. Follow the prompts to enter the required information (gender, weight, height, and choice of units).
